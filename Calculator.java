@@ -1,4 +1,3 @@
-package College.OOM_Prac2;
 
 import java.util.Scanner;
 public class Calculator {
