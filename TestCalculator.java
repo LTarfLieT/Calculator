@@ -1,4 +1,3 @@
-package College.OOM_Prac2;
 
 public class TestCalculator {
 
